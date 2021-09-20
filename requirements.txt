@@ -1,0 +1,17 @@
+dgl-cu102==0.6.1
+torch==1.7.1
+torchvision==0.8.2
+click==7.1.2
+xlrd==1.2.0
+requests==2.25.1
+wget==3.2
+scipy==1.6.2
+numpy==1.19.2
+pandas==1.2.0
+joblib==1.0.0
+pandas==1.2.0
+matplotlib==3.3.2
+allennlp==2.7.0
+scikit_learn==0.24.2
+tensorflow==2.6.0
+
